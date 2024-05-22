@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas Reda</h1>
-<h3 align="center">interested in mobile development flutter</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter=1000&color=119F28&center=true&vCenter=true&random=true&width=500&lines=Hey!+It's+Thomas;I'm+a+Flutter+Developer...;interested+in+mobile+development+flutter" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomas445&label=Profile%20views&color=0e75b6&style=flat" alt="tomas445" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomas445" alt="tomas445" /></a> </p>
